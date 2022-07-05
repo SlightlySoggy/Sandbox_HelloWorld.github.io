@@ -7,8 +7,8 @@ Practice for github repositories
 
 - [X] Sleep
 - [X] Wake Up
-- [3] Eat
-- [4] Drink
+- [] Eat
+- [] Drink
 
 
 ---
