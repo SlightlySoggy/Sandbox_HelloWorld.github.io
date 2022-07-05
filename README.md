@@ -3,8 +3,10 @@
 Practice for github repositories 
 
 ---
-- Checklist
+Checklist
+- this is a list
 
+Todo list
 - [X] Sleep
 - [X] Wake Up
 - [] Eat
