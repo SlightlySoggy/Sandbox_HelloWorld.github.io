@@ -3,12 +3,12 @@
 Practice for github repositories 
 
 ---
-Checklist
+- Checklist
 
-[1] Sleep
-[2] Wake Up
-[3] Eat
-[4] Drink
+- [X] Sleep
+- [X] Wake Up
+- [3] Eat
+- [4] Drink
 
 
 ---
